@@ -3,4 +3,5 @@
 Likewise, in other platforms, doesn’t have a direct support. But it has been achieved by hooking [ChartAreaPaint](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Chart.ChartControl.html#Syncfusion_Windows_Forms_Chart_ChartControl_ChartAreaPaint) event in the chart control and adjust its position to its chart hole by using the Location property.
 
 ![](https://github.com/SyncfusionExamples/How-to-add-a-view-at-center-hole-of-WF-Donut-Charts/blob/main/Center_View_of_Donut_Chart.png)
+
 To know more about the way of achieving, please refer this sample.
