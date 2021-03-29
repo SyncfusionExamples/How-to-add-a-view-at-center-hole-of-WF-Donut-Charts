@@ -4,4 +4,4 @@ Likewise, in other platforms, doesn’t have a direct support. But it has been a
 
 ![](https://github.com/SyncfusionExamples/How-to-add-a-view-at-center-hole-of-WF-Donut-Charts/blob/main/Center_View_of_Donut_Chart.png)
 
-To know more about the way of achieving, please refer this sample.
+To know more about this, please refer [this article](https://www.syncfusion.com/kb/12484/?utm_medium=listing&utm_source=github-examples)
