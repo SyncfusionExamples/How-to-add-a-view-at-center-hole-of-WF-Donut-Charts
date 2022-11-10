@@ -1,4 +1,4 @@
-# How to add a view at center hole of WF Donut Charts
+# How to add a view at center hole of WF Doughnut Charts
 
 The [WinForms Chart Control](https://help.syncfusion.com/windowsforms/chart/getting-started) supports the [Doughnut chart](https://help.syncfusion.com/windowsforms/chart/chart-types#doughnut-chart) by specifying the [DoughnutCoefficient](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Chart.ChartPieConfigItem.html#Syncfusion_Windows_Forms_Chart_ChartPieConfigItem_DoughnutCoeficient) property of the Pie chart.  Donut (or Doughnut chart) is a pie chart, which has a “hole” at the center. This article explains how to add your desired view on that hole.
 
